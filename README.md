@@ -4,4 +4,4 @@
 ----------------------------------------------------------------------------------------------------------------------------
 - AWS Bookshelf
     - https://www.in28minutes.com/aws-bookshelf
-    - This PPT is from in28minutes
+    - This PPT is from in28minutes.
