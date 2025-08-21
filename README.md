@@ -6,4 +6,4 @@
 - AWS Bookshelf
     - https://www.in28minutes.com/aws-bookshelf
     - This PPT is from in28minutes.
-    - Cloud With Raj
+    - Cloud With Raj Udemy Course PDF .
