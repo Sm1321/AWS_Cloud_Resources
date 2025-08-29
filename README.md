@@ -7,4 +7,4 @@
     - https://www.in28minutes.com/aws-bookshelf
     - This PPT is from in28minutes.
     - Cloud With Raj Udemy Course PDF .
-    - Other PDF's
+    - Other PDF's .
